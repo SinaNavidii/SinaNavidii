@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sina Navidi</h1> 
-<h3 align="center">PhD Candidate in Mechanical Engineering at UConn</h3> 
-
 <p align="center">
 I like <strong>climbing, coding, and coffee!</strong> ☕
 </p> 
