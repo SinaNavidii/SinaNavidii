@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sina Navidi</h1>
+<h1 align="center">Hi there 👋, I'm Sina!</h1>
 <h3 align="center">A PhD Candidate in Mechanical Engineering at UConn</h3>
 
 <p align="center">
-I like <strong>climbing, coding, and coffee.</strong>
+I like <strong>climbing, coding, and coffee.</strong>☕
 </p>
 <p> 
 Currently, my research is focused on the prognostics and health management (PHM) of lithium-ion batteries through physics-informed machine learning. I like the challenge of merging physics-based and machine learning models to create tools that can predict and improve battery health in the real world.
