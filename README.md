@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Sina!</h1>
-<h3 align="center">A PhD Candidate in Mechanical Engineering at UConn</h3>
+<h3 align="center">A Ph.D. student and graduate research assistant in the school of mechanical, aerospace and manufacturing engineering at UConn.</h3>
 
 <p align="center">
 I like <strong>climbing, coding, and coffee.</strong>☕
 </p>
 <p> 
-Currently, my research is focused on the prognostics and health management (PHM) of lithium-ion batteries through physics-informed machine learning. I like the challenge of merging physics-based and machine learning models to create tools that can predict and improve battery health in the real world.
+Currently, my research is focused on the prognostics and health management (PHM) of complex engineering systems like lithium-ion batteries through physics-informed machine learning. 
 </p> 
 
 <p> 
