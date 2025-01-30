@@ -1,8 +1,8 @@
 <h1>Hi there, I'm Sina!</h1>
-<h3>I like <strong>climbing, coding, and coffee! And currently I'm a Ph.D. student and graduate research assistant in the school of mechanical, aerospace and manufacturing engineering at UConn. </strong></h3>
+<h3>I like <strong>climbing, coding, and coffee!🧗🏻‍♂️💻☕ </strong></h3>
 
 <p> 
-My research is focused on the prognostics and health management (PHM) of complex engineering systems like lithium-ion batteries through physics-informed machine learning. 
+Currently, I'm a Ph.D. student and graduate research assistant in the school of mechanical, aerospace and manufacturing engineering at UConn. My research is focused on the prognostics and health management (PHM) of complex engineering systems like lithium-ion batteries through physics-informed machine learning. 
 </p> 
 
 <p> 
