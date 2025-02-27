@@ -10,7 +10,7 @@ My journey into this field started with robotics, where I first got hooked on pr
 </p> 
 
 <p> 
-These days, I’m hands-on with Python, MATLAB, and a range of data science and simulation frameworks to tackle complex problems and optimize solutions. Outside of research, you’ll find me climbing rocks, exploring coffee spots, or catching up on the latest in tech podcasts!
+These days, I’m hands-on with Python, MATLAB, and a range of data science and simulation frameworks to tackle problems and optimize solutions. Outside of research, you’ll find me climbing rocks, exploring coffee spots, or catching up on the latest tech podcasts!
 </p> 
 
 📫 Reach out at sina.navidi@uconn.edu for collaborations, questions, or just to connect!
