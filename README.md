@@ -6,7 +6,7 @@ I'm a Ph.D. student and graduate research assistant in the school of mechanical,
 </p> 
 
 <p> 
-My journey into this field started with robotics, where I first got hooked on programming and problem-solving. Later, during my master’s program, I was drawn to operations research and mathematical modeling. Discovering gradient descent led me to machine learning—and now here I am, diving deep into it!
+My journey into this field began with a robotics competition during my undergrad, where I got interested in programming and problem-solving. In my master’s program, I became drawn to operations research and mathematical modeling. Discovering gradient descent eventually led me to machine learning—and now I’m excited to be diving deeper into it.
 </p> 
 
 <p> 
