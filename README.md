@@ -2,11 +2,11 @@
 <h3>I like <strong>climbing, coding, and coffee!🧗🏻‍♂️💻☕ </strong></h3>
 
 <p> 
-I'm a Ph.D. student and graduate research assistant in the school of mechanical, aerospace and manufacturing engineering at UConn. My research is focused on the prognostics and health management (PHM) of complex engineering systems like lithium-ion batteries through data-driven and physics-based modeling and ultimately physics-informed machine learning. 
+I'm a Ph.D. student and graduate research assistant in the school of mechanical, aerospace and manufacturing engineering at UConn. My research is focused on the prognostics and health management (PHM) of complex engineering systems like lithium-ion batteries through data-driven and physics-based modeling and ultimately combining both in the form of physics-informed machine learning. 
 </p> 
 
 <p> 
-My journey into this field began with a robotics competition during my undergrad, where I got interested in programming and problem-solving. In my master’s program, I became drawn to operations research and mathematical modeling. Discovering gradient descent eventually led me to machine learning—and now I’m excited to be diving deeper into it.
+My journey into this field began with a robotics competition during my undergrad, where I got interested in programming and problem-solving. In my master’s program, I became drawn to operations research and mathematical modeling. Discovering gradient descent eventually led me to machine learning, and now I’m excited to be diving deeper into it.
 </p> 
 
 <p> 
