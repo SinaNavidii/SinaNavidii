@@ -10,10 +10,16 @@ My journey into this field began with a robotics competition during my undergrad
 </p> 
 
 <p> 
-These days, I’m hands-on with Python, MATLAB, and a range of data science and simulation frameworks to tackle problems and optimize solutions. Outside of research, you’ll find me climbing rocks, exploring coffee spots, or catching up on the latest tech podcasts!
+These days, I’m hands-on with a range of data science and simulation frameworks to tackle problems and optimize solutions. Outside of research, you’ll find me climbing rocks, exploring coffee spots, or catching up on the latest tech podcasts!
 </p> 
 
 📫 Reach out at sina.navidi@uconn.edu for collaborations, questions, or just to connect!
+
+#### 🎯 Interests
+- Prognostics and Health Management
+- Energy systems & battery intelligence
+- AI for physical systems
+- Optimization and decision-making under uncertainty
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
