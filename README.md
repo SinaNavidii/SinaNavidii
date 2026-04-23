@@ -27,21 +27,6 @@ These days, I’m hands-on with Python, MATLAB, and a range of data science and 
 <table>
   <tr>
     <td align="center">
-      <a href="https://git-scm.com/">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mathworks.com/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://pandas.pydata.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://www.python.org">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
       </a>
@@ -59,6 +44,26 @@ These days, I’m hands-on with Python, MATLAB, and a range of data science and 
     <td align="center">
       <a href="https://www.tensorflow.org">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://isocpp.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mathworks.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pandas.pydata.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
       </a>
     </td>
     <td align="center">
